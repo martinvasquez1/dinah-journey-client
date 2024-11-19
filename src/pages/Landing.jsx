@@ -1,4 +1,4 @@
-export default function NotFound() {
+export default function Landing() {
   return (
     <div>
       <div>Landing</div>
